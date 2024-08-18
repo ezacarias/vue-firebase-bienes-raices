@@ -7,3 +7,4 @@
 ## 262.Creando la vista de Login
 ## 263.Creando el Formulario de Login
 ## 264 Validación con Vee-validate
+## 265.- Mostrando los mensajes de error en la validación
