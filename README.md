@@ -6,3 +6,4 @@
 ## 261.Componentes en Vuetify
 ## 262.Creando la vista de Login
 ## 263.Creando el Formulario de Login
+## 264 Validación con Vee-validate
