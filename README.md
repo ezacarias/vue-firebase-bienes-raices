@@ -13,3 +13,4 @@
 ## 268.- Creando un store de autenticacion
 ## 269.- Creando un diccionario de errores
 ## 270.- Alertas en Vuetify
+## 271.- Mostrando las alertas de autenticacion
