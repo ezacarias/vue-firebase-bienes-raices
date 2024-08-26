@@ -9,3 +9,4 @@
 ## 265.- Mostrando los mensajes de error en la validación
 
 ## 266.- Instalando Firebase
+## 267.- Creando un store de autenticacion
