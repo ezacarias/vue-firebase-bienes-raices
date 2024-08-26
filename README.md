@@ -1,4 +1,3 @@
-# vue-firebase-bienes-raices
 ## 258.- El proyecto que vamos a construir
 ## 259.- ¿Que es Firebase? y creando el proyecto
 
@@ -8,3 +7,5 @@
 ## 263.Creando el Formulario de Login
 ## 264 Validación con Vee-validate
 ## 265.- Mostrando los mensajes de error en la validación
+
+## 266.- Instalando Firebase
