@@ -11,3 +11,5 @@
 ## 266.- Instalando Firebase
 ## 267.- Creando un store de autenticacion
 ## 268.- Creando un store de autenticacion
+## 269.- Creando un diccionario de errores
+## 270.- Alertas en Vuetify
