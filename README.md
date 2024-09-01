@@ -14,3 +14,5 @@
 ## 269.- Creando un diccionario de errores
 ## 270.- Alertas en Vuetify
 ## 271.- Mostrando las alertas de autenticacion
+
+## 272.- Autenticando al usuario
