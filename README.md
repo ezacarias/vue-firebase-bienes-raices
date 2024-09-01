@@ -19,3 +19,4 @@
 ## 273.- Creando un panel de administracion
 ## 274.- Como identificar al usuario autenticado
 ## 275. Cambiando la barra de navegación si el usuario está autenticado o no
+## 276. Cerrar sesión en Firebase
