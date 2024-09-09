@@ -26,3 +26,4 @@
 ## 279. Creando el Formulario de Nuevas Propiedades
 ## 280. Añadiendo Validación a las Propiedades
 ## 281. Mapeando State con los Campos de nuestro formulario
+## 282. Leyendo los datos ingresados al Formulario (Descarga Materiales aquí)
