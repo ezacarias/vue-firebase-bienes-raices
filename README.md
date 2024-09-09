@@ -21,3 +21,5 @@
 ## 275. Cambiando la barra de navegación si el usuario está autenticado o no
 ## 276. Cerrar sesión en Firebase
 ## 277. Reestringir acceso a ciertas páginas con guards de navegación
+
+## 278. Permitir el acceso si el usuario esta autenticado
