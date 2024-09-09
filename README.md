@@ -23,3 +23,5 @@
 ## 277. Reestringir acceso a ciertas páginas con guards de navegación
 
 ## 278. Permitir el acceso si el usuario esta autenticado
+## 279. Creando el Formulario de Nuevas Propiedades
+## 280. Añadiendo Validación a las Propiedades
